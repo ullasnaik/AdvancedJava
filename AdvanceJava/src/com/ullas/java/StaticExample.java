@@ -1,6 +1,10 @@
 package com.ullas.java;
 
+import java.util.concurrent.ConcurrentHashMap;
+
 public class StaticExample{
+	
+	ConcurrentHashMap<String, Integer> map=new ConcurrentHashMap<>();
     static {
         System.out.println("This is first static block");
     }
