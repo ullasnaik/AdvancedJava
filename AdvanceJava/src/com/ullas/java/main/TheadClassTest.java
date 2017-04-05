@@ -1,4 +1,4 @@
-package com.ullas.java.AbstractClass;
+package com.ullas.java.main;
 
 import com.ullas.java.multithreading.SimpleThread;
 
