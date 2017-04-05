@@ -1,4 +1,4 @@
-package com.ullas.java;
+package com.ullas.java.common;
 
 import java.util.concurrent.ConcurrentHashMap;
 

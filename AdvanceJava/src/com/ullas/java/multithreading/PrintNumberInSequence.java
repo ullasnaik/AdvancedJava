@@ -1,4 +1,4 @@
-package com.ullas.java;
+package com.ullas.java.multithreading;
 
 import java.util.HashMap;
 import java.util.Map;
