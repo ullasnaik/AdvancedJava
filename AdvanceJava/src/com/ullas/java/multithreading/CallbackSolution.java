@@ -3,7 +3,7 @@ package com.ullas.java.multithreading;
 public class CallbackSolution {
 
 	public static void main(String[] args) {
-		new MyThread.start();
+		//new MyThread.start();
 	}
 
 	public void mymeth(String str) {
