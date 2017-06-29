@@ -9,8 +9,7 @@ public class HashCodeEqualsContact {
 		Map <Employee,String> map= loadEmployee();
 		Employee e= new Employee(1, "ullas");
 		String name= map.get(e);
-		System.out.println(name);
-		
+		System.out.println(name);		
 	}
 	public static Map<Employee,String> loadEmployee (){
 		Map<Employee, String> map = new HashMap<>();
