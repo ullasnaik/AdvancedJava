@@ -14,7 +14,7 @@ public class AbstarctClassTest extends AbstarctClassExample {
 	public static void main(String[] args) throws InterruptedException, ArithmeticException {
 		// TODO Auto-generated method stub
 
-		AbstarctClassExample name = new AbstarctClassTest(1,2);
+		AbstarctClassExample name = new AbstarctClassTest(1, 2);
 	}
 
 }
